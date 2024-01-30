@@ -1,0 +1,522 @@
+[
+    {
+        "text": "Love the new design! 😍",
+        "label": 1
+    },
+    {
+        "text": "Neutral comment with no strong sentiment.",
+        "label": 0
+    },
+    {
+        "text": "This feature is so confusing. Hate it!",
+        "label": -1
+    },
+    {
+        "text": "Amazing content! Keep it up.",
+        "label": 1
+    },
+    {
+        "text": "Worst experience ever. Unfollowing!",
+        "label": -1
+    },
+    {
+        "text": "😂😂😂",
+        "label": -1
+    },
+    {
+        "text": "Beautiful photo! Where was this taken?",
+        "label": 1
+    },
+    {
+        "text": "I'm indifferent to this post. It's okay.",
+        "label": 1
+    },
+    {
+        "text": "Disappointed with the quality of this content.",
+        "label": 1
+    },
+    {
+        "text": "Fantastic work! I'm a fan.",
+        "label": 1
+    },
+    {
+        "text": "This account never fails to disappoint.",
+        "label": 1
+    },
+    {
+        "text": "Ke keh hai last m🤔",
+        "label": 0
+    },
+    {
+        "text": "Bhai n kh ke le li 😂😂😂😂",
+        "label": 1
+    },
+    {
+        "text": "Average haryanvi bjp mp :arvind sharma 😂 ab andhbhakt ki jalegi 😂",
+        "label": 1
+    },
+    {
+        "text": "My name Khushnuma",
+        "label": 0
+    },
+    {
+        "text": "😍❤️",
+        "label": -1
+    },
+    {
+        "text": "😍❤️✅",
+        "label": -1
+    },
+    {
+        "text": "😍❤️",
+        "label": -1
+    },
+    {
+        "text": "✅",
+        "label": -1
+    },
+    {
+        "text": "😍❤️🤡🤡",
+        "label": -1
+    },
+    {
+        "text": "😍❤️😂",
+        "label": -1
+    },
+    {
+        "text": "😍😂❤️",
+        "label": -1
+    },
+    {
+        "text": "😂😂😂😂😍❤️",
+        "label": -1
+    },
+    {
+        "text": "Bro died in match making 😂😂",
+        "label": -1
+    },
+    {
+        "text": "Bro got killed in lobby",
+        "label": -1
+    },
+    {
+        "text": "Lagta hai plan crash ho gya 🤡",
+        "label": 1
+    },
+    {
+        "text": "Lund le le saale 164000 ka score bna rkha hai chutiya 😂😂😂",
+        "label": 1
+    },
+    {
+        "text": "Bro got eliminated in the Plane 😂",
+        "label": -1
+    },
+    {
+        "text": "Jakar turant marega to bhi itna minus nhi hoga 101 jyada se jyada",
+        "label": -1
+    },
+    {
+        "text": "Free fire ❌ PUBG ✅",
+        "label": 1
+    },
+    {
+        "text": "Free fire ❌ PUBG ✅ all the way! Which one do you prefer?",
+        "label": 1
+    },
+    {
+        "text": "❌ PUBG or ✅ Free fire? Let the battle begin!",
+        "label": 1
+    },
+    {
+        "text": "Can't decide between ❌ and ✅. Both are awesome!",
+        "label": 1
+    },
+    {
+        "text": "Playing ❌ PUBG and ✅ Free fire simultaneously!",
+        "label": 1
+    },
+    {
+        "text": "❌ Disappointed with PUBG, but ✅ loving Free fire!",
+        "label": 1
+    },
+    {
+        "text": "Which one is better? Comment with ❌ for PUBG and ✅ for Free fire!",
+        "label": 1
+    },
+    {
+        "text": "PUBG ❌ Free fire ✅ Who will win the gaming war?",
+        "label": 1
+    },
+    {
+        "text": "Hahaha, that's hilarious!",
+        "label": 1
+    },
+    {
+        "text": "I can't stop laughing at this! 😂",
+        "label": 1
+    },
+    {
+        "text": "So much fun! Best post of the day.",
+        "label": 1
+    },
+    {
+        "text": "This is pure comedy gold! 😆",
+        "label": 1
+    },
+    {
+        "text": "Can't believe people find this funny.",
+        "label": 1
+    },
+    {
+        "text": "ROFL! Can't control my laughter.",
+        "label": 1
+    },
+    {
+        "text": "Not my type of humor. Dislike.",
+        "label": -1
+    },
+    {
+        "text": "Why is this even considered funny?",
+        "label": -1
+    },
+    {
+        "text": "Brilliant joke! Made my day.",
+        "label": 1
+    },
+    {
+        "text": "Just a lame attempt at humor. Disappointed.",
+        "label": 1
+    },
+    {
+        "text": "❌ This is unacceptable! But ✅ I appreciate the effort.",
+        "label": -1
+    },
+    {
+        "text": "✅ Finally, something good! But ❌ not perfect.",
+        "label": 1
+    },
+    {
+        "text": "This idea is a total ❌ and ✅ a game-changer!",
+        "label": -1
+    },
+    {
+        "text": "✅ Approved! But ❌ there's room for improvement.",
+        "label": 1
+    },
+    {
+        "text": "I'm giving this a big ❌ and ✅ because it's a mixed bag.",
+        "label": -1
+    },
+    {
+        "text": "✅ Thumbs up! But ❌ could be better.",
+        "label": 1
+    },
+    {
+        "text": "Complete ❌. Waste of time. But ✅ worth a second look.",
+        "label": -1
+    },
+    {
+        "text": "✅ Excellent job! But ❌ needs refinement.",
+        "label": 1
+    },
+    {
+        "text": "❌ Not impressed. But ✅ has potential.",
+        "label": -1
+    },
+    {
+        "text": "✅ Great execution! But ❌ missed the mark.",
+        "label": 1
+    },
+    {
+        "text": "❌ Disagree completely. But ✅ it's interesting.",
+        "label": -1
+    },
+    {
+        "text": "✅ Well done! But ❌ not my cup of tea.",
+        "label": 1
+    },
+    {
+        "text": "Bhai, yeh kya mast hai! 🤣",
+        "label": 1
+    },
+    {
+        "text": "Kaafi average hai, yaar.",
+        "label": -1
+    },
+    {
+        "text": "Yeh content dekh kar maza aa gaya!",
+        "label": 1
+    },
+    {
+        "text": "Bhai, yeh kisne banaya? 😂",
+        "label": 1
+    },
+    {
+        "text": "Aise hi content chahiye humein!",
+        "label": 1
+    },
+    {
+        "text": "Aaj kal ke bachche bhi kuch zyada hi cool ban gaye hain.",
+        "label": 1
+    },
+    {
+        "text": "Generation Z in the house! 😎",
+        "label": 1
+    },
+    {
+        "text": "Kya cool generation hai yeh!",
+        "label": 1
+    },
+    {
+        "text": "Iss generation ka koi bharosa nahi!",
+        "label": -1
+    },
+    {
+        "text": "Comment karne wale bhi kamaal ke hain.",
+        "label": 1
+    },
+    {
+        "text": "Kuch bhi karlo, Generation Z sabko peeche chhod deta hai!",
+        "label": 1
+    },
+    {
+        "text": "Yeh Generation Z ka zamana hai!",
+        "label": 1
+    },
+    {
+        "text": "Had the best chai today! ☕🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Samosa and chai - the perfect evening snack! 😋🥟🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Traffic jams in the city are unreal! 🚗🚦🇮🇳",
+        "label": -1
+    },
+    {
+        "text": "Celebrating festivals with family and sweets. 🎉🍬🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Monsoon vibes with hot pakoras! ☔🌧️🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Sunday cricket matches with friends. 🏏🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Feeling the patriotic vibes today! 🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Bollywood movie night with the squad! 🎬🍿🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Street food adventures in Old Delhi. 🥘🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Exploring the rich history at the Jaipur fort. 🏰🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Missing mom's home-cooked food. 🍲🏡🇮🇳",
+        "label": -1
+    },
+    {
+        "text": "Craving a ride on Mumbai locals right now. 🚇🇮🇳",
+        "label": -1
+    },
+    {
+        "text": "Late-night gossips with friends over chai. 🌙☕🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Navratri celebrations begin! 💃🎶🇮🇳",
+        "label": 1
+    },
+    {
+        "text": "Waiting for the weekend like... 😩🇮🇳",
+        "label": -1
+    },
+    {
+        "text": "😢😭",
+        "label": -1
+    },
+    {
+        "text": "🙁",
+        "label": -1
+    },
+    {
+        "text": "😞",
+        "label": -1
+    },
+    {
+        "text": "😟",
+        "label": -1
+    },
+    {
+        "text": "😔",
+        "label": -1
+    },
+    {
+        "text": "😣",
+        "label": -1
+    },
+    {
+        "text": "😖",
+        "label": -1
+    },
+    {
+        "text": "😓",
+        "label": -1
+    },
+    {
+        "text": "😩",
+        "label": -1
+    },
+    {
+        "text": "🥺",
+        "label": -1
+    },
+    {
+        "text": "😴",
+        "label": -1
+    },
+    {
+        "text": "😪",
+        "label": -1
+    },
+    {
+        "text": "🤢",
+        "label": -1
+    },
+    {
+        "text": "😷",
+        "label": -1
+    },
+    {
+        "text": "🤧",
+        "label": -1
+    },
+    {
+        "text": "😵",
+        "label": -1
+    },
+    {
+        "text": "🥴",
+        "label": -1
+    },
+    {
+        "text": "🤕",
+        "label": -1
+    },
+    {
+        "text": "🤒",
+        "label": -1
+    },
+    {
+        "text": "🙇‍♀️",
+        "label": -1
+    },
+    {
+        "text": "🙇‍♂️",
+        "label": -1
+    },
+    {
+        "text": "🤷‍♀️",
+        "label": -1
+    },
+    {
+        "text": "🤷‍♂️",
+        "label": -1
+    },
+    {
+        "text": "B Tech degree ❌ YouTube degree ✅(saved 4 years)",
+        "label": 1
+    },
+    {
+        "text": "Tbhi m clg professors se jayda YouTube ko time deta hu😂",
+        "label": 1
+    },
+    {
+        "text": "Maine be drawing YouTube PE sika😂",
+        "label": 1
+    },
+    {
+        "text": "Yeh reel mere gharwalo tk nhi jana chahiye 🫣",
+        "label": 1
+    },
+    {
+        "text": "Bhai mei khud pura btech youtube se sikha hu🥲",
+        "label": 1
+    },
+    {
+        "text": "Hum mtlb tum ❌ hum mtlb mai ✅",
+        "label": 1
+    },
+    {
+        "text": "YouTube se video editing sikh kar 1lakh subscribers kar lie maine @mrinformative",
+        "label": -1
+    },
+    {
+        "text": "Bhai ne graphic designers ke mooh par moot diya.😂😂😂😂",
+        "label": 1
+    },
+    {
+        "text": "Bhai mei khud pura btech youtube se sikha hu🥲",
+        "label": -1
+    },
+    {
+        "text": "Bhai saharsa se h😮❤️",
+        "label": -1
+    },
+    {
+        "text": "Well actually I'm a UX designer too never went to college for design. It was Instagram and its creators for me :)",
+        "label": -1
+    },
+    {
+        "text": "Bhai hamse s web app code krwa le badiya bna denge 🙂",
+        "label": -1
+    },
+    {
+        "text": "mene bhi VFX youtube se hi sikha tha 😅😅",
+        "label": -1
+    },
+    {
+        "text": "Poora Uber ka design chapa hain isne... Nakal achi ki hain isne. Ab bologe nakal ke liye akal hona chahiye but poora same to same chapne k liye akal nhi chahiye",
+        "label": -1
+    },
+    {
+        "text": "sab YouTube se hi coding sikhte hai...itna Shock none ka kya baath hai.",
+        "label": -1
+    },
+    {
+        "text": "He shows that you don't need a degree to be a designer or developer. You can learn from YouTube too! If you want to learn something, nothing can stop you!🙌🔥",
+        "label": -1
+    },
+    {
+        "text": "Bihari kuch v kar skte hai agr chahe to proud to be a bihari",
+        "label": -1
+    },
+    {
+        "text": "People who are saying he developed the app, no he didn't, he created the prototype of the application on Adobe XD, a designing software to provide prototype and wireframes to the application development, where developer uses these resources to build them, since the look and feel comes under the UI UX which designers do during the initial stages of software development",
+        "label": -1
+    },
+    {
+        "text": "He is confuse, he dont know what he is saying, Graphic design nahi hai ye its a prototype jisse isne adobe xd se banaya hoga, Isne kaha its live, means coding bhi ki hogi. At the end its not graphic design nor xd prototype its whole product, which can only made by product designer, And coding kisi aur se karwai hogi, a product designer cannot code. He is hiding many things.",
+        "label": -1
+    },
+    {
+        "text": "Bihar walo ko halke me le rhe ho.. Abe pura shark tanker gayab kar denge raato raat 😂🔥",
+        "label": 1
+    },
+    {
+        "text": "Ab toh mujhe bhut jyda wali sharam aarhi hai 🙂😭",
+        "label": 0
+    }
+]
