@@ -29,22 +29,22 @@ InstaBot is a Python script for automating Instagram activities, including uploa
 python insta_bot.py
 ```
 
-##Usage
+## Usage
 Modify the insta_bot.py file with your Instagram credentials.
 Run the script to automate Instagram activities.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 Selenium
 Beautiful Soup
 MoviePy
 Imageio
 Plyer
 
-##Author
+## Author
 Paramjeet
 
-##Contributing
+## Contributing
 Feel free to contribute to this project by creating issues or submitting pull requests.
