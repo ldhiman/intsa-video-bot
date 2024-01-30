@@ -293,12 +293,12 @@ class InstaBot:
                 print("-" * 50)
 
     def run(self):
-        while True:
             try:
                 self.inbox()
             except Exception as e:
+                os.remove("session_cache.pkl")
                 print(e)
-            time.sleep(100)
+                self.inbox()
 
 
 bot = InstaBot(#username, #password)
