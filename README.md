@@ -17,7 +17,7 @@ InstaBot is a Python script for automating Instagram activities, including uploa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/InstaBot.git
+   git clone https://github.com/ldhiman/InstaBot.git
    cd InstaBot
    ```
 2. Install dependencies:
