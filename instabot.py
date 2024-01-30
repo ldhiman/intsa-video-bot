@@ -301,5 +301,5 @@ class InstaBot:
             time.sleep(100)
 
 
-bot = InstaBot("aibot956", "Dhiman@123")
+bot = InstaBot(#username, #password)
 bot.run()
