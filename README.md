@@ -37,11 +37,14 @@ Run the script to automate Instagram activities.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Selenium
-Beautiful Soup
-MoviePy
-Imageio
-Plyer
+1. Selenium
+2. Beautiful Soup
+3. MoviePy
+4. Imageio
+5. Plyer
+6. Sklearn
+7. Numpy
+8. Pandas
 
 ## Author
 Paramjeet
